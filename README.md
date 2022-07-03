@@ -6,8 +6,7 @@ Kernel Methods in Machine Learning
 ### Data Challenge
 
 See the dedicated [kaggle](https://www.kaggle.com/competitions/kernel-methods-ammi-2022/)
-
-This. 
+It is a sequence prediction task. 
 
 
 ### Teaching Staff
