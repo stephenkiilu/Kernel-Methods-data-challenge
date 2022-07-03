@@ -5,7 +5,7 @@ Kernel Methods in Machine Learning
 
 ### Data Challenge
 
-The data challenge is accessible at [kaggle](https://www.kaggle.com/competitions/kernel-methods-ammi-2022/)
+The data challenge is accessible at [kaggle](https://www.kaggle.com/competitions/kernel-methods-ammi-2022/).
 
 It is a sequence prediction task. The goal of the data challenge is to learn how to implement machine learning algorithms, gain understanding about them and adapt them to structural data.
 For this reason, we have chosen a sequence classification task: predicting whether a DNA sequence (or read) belongs to the SARS-CoV-2 (Covid-19).
