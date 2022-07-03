@@ -5,7 +5,7 @@ Kernel Methods in Machine Learning
 
 ### Data Challenge
 
-See the dedicated [kaggle](https://www.kaggle.com/t/91bfaf158d2b4845871297406197d79a)
+See the dedicated [kaggle](https://www.kaggle.com/competitions/kernel-methods-ammi-2022/)
 
 This. 
 
